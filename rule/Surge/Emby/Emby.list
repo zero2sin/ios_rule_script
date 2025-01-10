@@ -7,6 +7,8 @@
 # DOMAIN-SUFFIX: 45
 # PROCESS-NAME: 1
 # TOTAL: 52
+#自定义添加lemby、极光、nanflix、牢大、kim
+DOMAIN-SUFFIX,lemby.me
 DOMAIN-SUFFIX,auroramedia.vip
 DOMAIN-SUFFIX,nanflix.net
 DOMAIN-SUFFIX,mius.uk
